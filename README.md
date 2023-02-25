@@ -31,3 +31,4 @@ Para acessar a página Fake criada, necessário copiar o Endereço IP `192.168.0
 Ao observar o Kali ele mostra que tem alguém tentando acessar a página.
 Ao tentar acessar a conta, ele tenta direcionar para a conta oficial do facebook, mas se você observar no Kali, ele mostra os dados coletados.
 
+![dados coletados](dados_coletados.JPG)
